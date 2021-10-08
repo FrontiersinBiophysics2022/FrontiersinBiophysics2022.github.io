@@ -1,17 +1,6 @@
 ---
 title: "About"
-image: "profile.jpg"
 weight: 8
 ---
 
-This is **Introduction**, a minimalist website theme made for [Hugo](https://gohugo.io).
-
-### Features
-
-* Responsive display on any size screen
-* Light and Dark themes right out of the box
-* Multilingual - supports side-by-side content in multiple languages
-* Any number of custom index page sections from Markdown files
-* _Projects_ section with any number of projects: highly configurable as a photo gallery, modals, or external links
-* _Blog_ section with optional _Latest Post_, on the main page or as a separate section
-* Styled Markdown throughout with support for Hugo's syntax highlighting
+Frontiers in Biophysics is an annual conference covering all areas of quantitative biology. It will be held on Friday, June 17th, 2022 in downtown Vancouver. There are typically 70-100 participants, with attendees approximately split between The University of British Columbia (UBC) and Simon Fraser University (SFU). Others attend from British Columbia Institute of Technology (BCIT), Trinity Western University, University of Victoria, University of Washington, and other locations in the Pacific Northwest. Researchers from all levels are encouraged to attend. Talks are sourced primarily from undergraduate students, graduate students, and postdoctoral researchers. Poster presentations are welcome for all attendees. Also, keynote speakers are invited to present a 1 hour plenary talk. Frontiers in Biophysics attracts attendees from a diverse set of departments: physics, mathematics, biology, biochemistry, computer science, biomedical engineering. The informal atmosphere encourages discussion and networking across departments, which is a rare opportunity for these, typically isolated, various local groups. Students benefit greatly from learning of the diverse research being performed in the Pacific Northwest in experimental, theoretical, and applied quantitative biology. Frontiers in Biophysics alternates location between UBC and SFU, and is organized by a graduate student committee.
