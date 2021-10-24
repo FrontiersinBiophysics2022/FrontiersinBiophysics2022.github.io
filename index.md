@@ -17,14 +17,12 @@ Frontiers in Biophysics will feature a program jam-packed full of exciting event
 
 ## Keynote Speaker
 
-Our keynote speaker is Dr Pallav Kosuri, a professor at the Salk Institute for Biological Studies.
-
-
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
     <div class="column">
     	<img src="/assets/img/Kosuri.png" alt="Pallav Kosuri" width="150">
     </div>
     <div class="column">
+    	Our keynote speaker is Dr. Pallav Kosuri, a professor at the Salk Institute for Biological Studies.
     	Insert biography here.
     </div>
 </div>
