@@ -11,13 +11,22 @@ Frontiers in Biophysics is an annual conference covering all areas of quantitati
 
 Our keynote speaker is Dr Pallav Kosuri, a professor at the Salk Institute for Biological Studies.
 
-![Pallav Kosuri](/assets/img/Kosuri.png)
+
+<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
+    <div class="column">
+    	<img src="/assets/img/Kosuri.png" alt="Pallav Kosuri" width="250">
+    </div>
+    <div class="column">
+    	Insert biography here.
+    </div>
+</div>
 
 
 
 # Contact
 
-If you have any questions about the event please email us at frontier.biophysics@gmail.com.
+If you have any questions about the event please email us at <a  href="frontier.biophysics@gmail.com">frontier.biophysics@gmail.com</a><br>.
+
 
 
 # Organizing Committee
