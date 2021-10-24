@@ -4,5 +4,4 @@ description: June 17th in Vancouver, BC.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
-github:
-is\_project\_page:false
+github: is\_project\_page:false
