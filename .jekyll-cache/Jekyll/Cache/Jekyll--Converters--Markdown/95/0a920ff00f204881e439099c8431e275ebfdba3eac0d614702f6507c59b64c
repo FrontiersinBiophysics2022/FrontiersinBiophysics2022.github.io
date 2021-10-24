@@ -1,74 +1,11 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-<!-- Begin Jekyll SEO tag v2.7.1 -->
-<title>Frontiers in Biophysics 2022 | June 17th in Vancouver, BC.</title>
-<meta name="generator" content="Jekyll v4.2.1" />
-<meta property="og:title" content="Frontiers in Biophysics 2022" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="June 17th in Vancouver, BC." />
-<meta property="og:description" content="June 17th in Vancouver, BC." />
-<link rel="canonical" href="http://localhost:4000/" />
-<meta property="og:url" content="http://localhost:4000/" />
-<meta property="og:site_name" content="Frontiers in Biophysics 2022" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Frontiers in Biophysics 2022" />
-<script type="application/ld+json">
-{"headline":"Frontiers in Biophysics 2022","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/img/logo.png"}},"description":"June 17th in Vancouver, BC.","url":"http://localhost:4000/","name":"Frontiers in Biophysics 2022","@type":"WebSite","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <link rel="stylesheet" href="/assets/css/style.css?v=">
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
-
-<!-- Setup Google Analytics -->
-
-
-
-<!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
-
-<!-- end custom head snippets -->
-
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <h1><a href="http://localhost:4000/">Frontiers in Biophysics 2022</a></h1>
-
-        
-          <img src="/assets/img/logo.png" alt="Logo" />
-        
-
-        <p>June 17th in Vancouver, BC.</p>
-
-        
-
-        
-
-        
-        <ul class="downloads">
-          <li><a href="">Download <strong>ZIP File</strong></a></li>
-          <li><a href="">Download <strong>TAR Ball</strong></a></li>
-          <li><a href="">View On <strong>GitHub</strong></a></li>
-        </ul>
-        
-      </header>
-      <section>
-
-      <h1 id="about">About</h1>
+I"­<h1 id="about">About</h1>
 
 <p>Frontiers in Biophysics is an annual conference covering all areas of quantitative biology. It will be held on Friday, June 17th, 2022 in downtown Vancouver. There are typically 70-100 participants, with attendees approximately split between The University of British Columbia (UBC) and Simon Fraser University (SFU). Others attend from British Columbia Institute of Technology (BCIT), Trinity Western University, University of Victoria, University of Washington, and other locations in the Pacific Northwest. Researchers from all levels are encouraged to attend, and talks are sourced primarily from undergraduate students, graduate students, and postdoctoral researchers. Frontiers in Biophysics attracts attendees from a diverse set of departments: physics, mathematics, biology, biochemistry, computer science, biomedical engineering. The informal atmosphere encourages discussion and networking across departments, which is a rare opportunity for these, typically isolated, various local groups. Students benefit greatly from learning of the diverse research being performed in the Pacific Northwest in experimental, theoretical, and applied quantitative biology. Frontiers in Biophysics alternates location between UBC and SFU, and is organized by a  student committee.</p>
 
 <h1 id="program">Program</h1>
 
-<p>Frontiers in Biophysics will feature a program jam-packed full of exciting events, including:</p>
+<p>Frontiers in Biophysics will feature a 
+including:</p>
 <ul>
   <li>Student oral presentations</li>
   <li>Poster session</li>
@@ -108,14 +45,4 @@
   <li>Miranda Louwerse, Chemistry PhD Student at SFU</li>
   <li>Mark Rempel, Physics MSc Student at SFU</li>
 </ul>
-
-
-      </section>
-      <footer>
-        
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
-    </div>
-    <script src="/assets/js/scale.fix.js"></script>
-  </body>
-</html>
+:ET
