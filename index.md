@@ -28,6 +28,10 @@ Frontiers in Biophysics will feature a program jam-packed full of exciting event
 </div>
 <br />
 
+## Student Presentations
+
+We will be accepting abstracts for both oral presentations and posters starting in Spring 2022. If you would like to be notified when abstract submissions open up, please join our mailing list by filling out <a  href="https://docs.google.com/forms/d/e/1FAIpQLSf0ixQqO0VjencGe7onJLlzslAWeI5X8Aovbfatd89z8H24pw/viewform?usp=sf_link">this form</a>.
+
 # Sponsors
 
 Your name and logo could appear here! Interested in sponsoring Frontiers in Biophysics 2022?  <a  href="frontier.biophysics@gmail.com">Get in touch</a>.
