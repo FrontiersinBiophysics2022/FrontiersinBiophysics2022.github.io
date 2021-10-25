@@ -4,7 +4,7 @@ layout: default
 
 <style>
 body {
-  background-image: src="/assets/img/backgroundshot.png";
+  background-image: <img src="/assets/img/backgroundshot.png">;
 }
 </style>
 
