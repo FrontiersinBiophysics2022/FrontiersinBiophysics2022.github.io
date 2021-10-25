@@ -34,12 +34,12 @@ We will be accepting abstracts for both oral presentations and posters starting 
 
 # Sponsors
 
-Your name and logo could appear here! Interested in sponsoring Frontiers in Biophysics 2022?  <a  href="Get in touch">frontier.biophysics@gmail.com</a>.
+Your name and logo could appear here! Interested in sponsoring Frontiers in Biophysics 2022?  <a  href="frontiers.biophysics@gmail.com">Get in touch</a>.
 
 
 # Contact
 
-If you have any questions about the event please email us at <a  href="frontier.biophysics@gmail.com">frontier.biophysics@gmail.com</a>.
+If you have any questions about the event please email us at <a  href="frontiers.biophysics@gmail.com">frontier.biophysics@gmail.com</a>.
 
 
 
