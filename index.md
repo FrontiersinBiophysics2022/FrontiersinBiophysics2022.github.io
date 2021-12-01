@@ -3,13 +3,13 @@ layout: default
 ---
 
 <style>
-  background-image: <img src="/assets/img/backgroundshot.png">;
+  background-image: <img src="/assets/img/backgroundshot.jpg">;
 </style>
 
 <div class="header">
   <style>
   body {
-    background-image: <img src="/assets/img/backgroundshot.png">;
+    background-image: <img src="/assets/img/backgroundshot.jpg">;
   }
   </style>
   <img src="/assets/img/backgroundshot.png" alt="SFU">
