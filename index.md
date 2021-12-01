@@ -31,7 +31,7 @@ Frontiers in Biophysics will feature a program full of exciting events, includin
 
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
     <div class="column">
-    	<img src="/assets/img/Kosuri.png" alt="Pallav Kosuri" width="200">
+    	<img src="/assets/img/Kosuri.png" alt="Pallav Kosuri" width="210">
     </div>
     <div class="column">
     	Our keynote speaker is Dr. Pallav Kosuri, a professor at the Salk Institute for Biological Studies. Dr. Kosuri co-discovered mechanisms that tune the mechanics of muscle by altering protein folding, co-invented specialized atomic force microscopy that allows the detection of chemical crosslink formation, and invented ORBIT (origami-rotor-based imaging and tracking), a technology that enabled the first direct measurements of the rotational steps taken by RNA polymerase as it transcribed single letters of the genetic code.
