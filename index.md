@@ -8,6 +8,11 @@ body {
 }
 </style>
 
+<div class="header">
+  <h1>Header</h1>
+  <p>My supercool header</p>
+</div>
+
 # About
 
 Frontiers in Biophysics is an annual conference covering all areas of quantitative biology and biophysics. It will be held on Friday, June 17th, 2022 in downtown Vancouver at the Harbour Centre. There are typically 70-100 participants, with attendees approximately split between The University of British Columbia (UBC) and Simon Fraser University (SFU). Others attend from British Columbia Institute of Technology (BCIT), Trinity Western University, University of Victoria, University of Washington, and other locations in the Pacific Northwest. Researchers from all levels are encouraged to attend, and talks are sourced primarily from undergraduate students, graduate students, and postdoctoral researchers. Frontiers in Biophysics attracts attendees from a diverse set of departments: physics, mathematics, biology, biochemistry, computer science, biomedical engineering. The informal atmosphere encourages discussion and networking across departments, which is a rare opportunity for these various local groups. Students benefit greatly from learning of the diverse research being performed in the Pacific Northwest in experimental, theoretical, and applied quantitative biology. Frontiers in Biophysics is hosted in alternate years by UBC and SFU and is organized by a student committee.
