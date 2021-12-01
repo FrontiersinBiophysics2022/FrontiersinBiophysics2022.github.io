@@ -12,7 +12,7 @@ layout: default
     background-image: <img src="/assets/img/backgroundshot.jpg">;
   }
   </style>
-  <img src="/assets/img/backgroundshot.png" alt="SFU">
+  <img src="/assets/img/backgroundshot.jpg" alt="SFU">
 
   <h1>Header</h1>
   <p>My supercool header</p>
