@@ -9,6 +9,11 @@ body {
 </style>
 
 <div class="header">
+  <style>
+  body {
+    background-image: <img src="/assets/img/backgroundshot.png">;
+  }
+  </style>
   <h1>Header</h1>
   <p>My supercool header</p>
 </div>
