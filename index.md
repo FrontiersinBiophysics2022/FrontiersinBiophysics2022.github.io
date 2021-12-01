@@ -3,7 +3,9 @@ layout: default
 ---
 
 <style>
-  background-image: <img src="/assets/img/backgroundshot.jpg">;
+  body {
+    background-image: <img src="/assets/img/backgroundshot.jpg">;
+  }
 </style>
 
 <div class="header">
