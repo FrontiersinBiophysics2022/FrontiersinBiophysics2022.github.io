@@ -12,6 +12,7 @@ layout: default
     background-image: <img src="/assets/img/backgroundshot.png">;
   }
   </style>
+  <div style="background-image: <img src='/assets/img/backgroundshot.png';">
   <h1>Header</h1>
   <p>My supercool header</p>
 </div>
