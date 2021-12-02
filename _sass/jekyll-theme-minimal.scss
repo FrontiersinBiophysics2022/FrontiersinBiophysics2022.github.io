@@ -3,6 +3,7 @@
 
 body {
   background-color: #fff;
+  background-image: "<img src='../img/backgroundshot.jpg'>";
   padding:50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
@@ -24,7 +25,6 @@ h1, h2, h3 {
 
 .fstPage {
    background-image: "<img src='../img/backgroundshot.jpg'>";
-   /*background-color: lightgray;*/
    height: 700px;
    width:100%;
    background-size:cover;
