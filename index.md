@@ -15,9 +15,6 @@ layout: default
   }
   </style>
   <img src="/assets/img/BackgroundwithLogo.png" alt="SFU">
-
-  <h1>Header</h1>
-  <p>My supercool header</p>
 </div>
 
 
