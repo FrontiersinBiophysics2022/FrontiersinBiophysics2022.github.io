@@ -10,6 +10,14 @@ body {
   font-weight:400;
 }
 
+html { 
+  background: url(img/backgroundshot.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 h1, h2, h3, h4, h5, h6 {
   color:#222;
   margin:0 0 20px;
@@ -21,13 +29,6 @@ p, ul, ol, table, pre, dl {
 
 h1, h2, h3 {
   line-height:1.1;
-}
-
-.fstPage {
-   background-image: "<img src='/img/backgroundshot.jpg'>";
-   height: 700px;
-   width:100%;
-   background-size:cover;
 }
 
 h1 {
