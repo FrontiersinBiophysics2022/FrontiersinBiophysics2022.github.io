@@ -53,15 +53,15 @@ In the meantime, check out our <a href="https://www.youtube.com/channel/UCwP6RGJ
 # Sponsors
 
 ## Platinum Sponsor
-<img src="/assets/img/SFUPhysics.jpg" alt="SFU Physics" width="210">
+<img src="/assets/img/SFUPhysics_Logo.jpg" alt="SFU Physics" width="210">
 
 ## Gold Sponsors
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
     <div class="column">
-      <img src="/assets/img/SFUScience_Logo.jpg" alt="SFU Science" width="210">
+      <img src="/assets/img/SFUScience_Logo.png" alt="SFU Science" width="210">
     </div>
     <div class="column">
-      <img src="/assets/img/UBCMath_Logo.jpg" alt="UBC Math" width="210">
+      <img src="/assets/img/UBCMath_Logo.png" alt="UBC Math" width="210">
     </div>
 </div>
 
