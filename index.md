@@ -65,8 +65,15 @@ In the meantime, check out our <a href="https://www.youtube.com/channel/UCwP6RGJ
     </div>
 </div>
 
-## Silver Sponsor
-<img src="/assets/img/AbCellera_Logo.jpg" alt="AbCellera" width="210">
+## Silver Sponsors
+<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
+    <div class="column">
+      <img src="/assets/img/AbCellera_Logo.jpg" alt="AbCellera" width="210">
+    </div>
+    <div class="column">
+      <img src="/assets/img/BSC_Logo.png" alt="Canadian Biophysical Society" width="210">
+    </div>
+</div>
 
 
 Your name and logo could also appear here! Interested in sponsoring Frontiers in Biophysics 2022?  <a  href="frontier.biophysics@gmail.com">Get in touch</a>.
