@@ -22,6 +22,10 @@ layout: default
 
 Frontiers in Biophysics is an annual conference covering all areas of quantitative biology and biophysics. It will be held on Friday, June 17th, 2022 in downtown Vancouver at the Harbour Centre. There are typically 70-100 participants, with attendees approximately split between The University of British Columbia (UBC) and Simon Fraser University (SFU). Others attend from British Columbia Institute of Technology (BCIT), Trinity Western University, University of Victoria, University of Washington, and other locations in the Pacific Northwest. Researchers from all levels are encouraged to attend, and talks are sourced primarily from undergraduate students, graduate students, and postdoctoral researchers. Frontiers in Biophysics attracts attendees from a diverse set of departments: physics, mathematics, biology, biochemistry, computer science, biomedical engineering. The informal atmosphere encourages discussion and networking across departments, which is a rare opportunity for these various local groups. Students benefit greatly from learning of the diverse research being performed in the Pacific Northwest in experimental, theoretical, and applied quantitative biology. Frontiers in Biophysics is hosted in alternate years by UBC and SFU and is organized by a student committee.
 
+Registration for Frontiers in Biophysics 2022 is now open!
+<a  href="https://www.eventbrite.ca/e/frontiers-in-biophysics-2022-registration-288892664737">Click here to register</a>.
+Registration closes on June 1st 2022 at 11:59pm Pacific Time.
+
 # Program
 
 Frontiers in Biophysics will feature a program full of exciting events, including:
@@ -46,9 +50,9 @@ Frontiers in Biophysics will feature a program full of exciting events, includin
 
 ## Student Presentations
 
-We will be accepting abstracts for both oral presentations and posters starting in Spring 2022. If you would like to be notified when abstract submissions open, please join our mailing list by filling out <a  href="https://docs.google.com/forms/d/e/1FAIpQLSf0ixQqO0VjencGe7onJLlzslAWeI5X8Aovbfatd89z8H24pw/viewform?usp=sf_link">this form</a>.
+We are accepting abstracts for both oral presentations and posters until May 17th 2022. <a  href="https://forms.gle/2aKVytmGs3f8ZDhGA">Submit an abstract</a>.
 
-In the meantime, check out our <a href="https://www.youtube.com/channel/UCwP6RGJhiLxWdDefTr11RGA">Youtube channel</a> to see recordings of the virtual presentations from the 2021 conference hosted by UBC.
+For inspiration, check out our <a href="https://www.youtube.com/channel/UCwP6RGJhiLxWdDefTr11RGA">Youtube channel</a> to see recordings of the virtual presentations from the 2021 conference hosted by UBC.
 
 # Sponsors
 
