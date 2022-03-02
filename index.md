@@ -80,9 +80,6 @@ For inspiration, check out our <a href="https://www.youtube.com/channel/UCwP6RGJ
 </div>
 
 
-Your name and logo could also appear here! Interested in sponsoring Frontiers in Biophysics 2022?  <a  href="frontier.biophysics@gmail.com">Get in touch</a>.
-
-
 # Contact
 
 If you have any questions about the event, please email us at <a  href="frontier.biophysics@gmail.com">frontier.biophysics@gmail.com</a>.
