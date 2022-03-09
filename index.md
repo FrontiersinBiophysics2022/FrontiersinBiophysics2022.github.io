@@ -24,7 +24,7 @@ Frontiers in Biophysics is an annual conference covering all areas of quantitati
 
 Registration for Frontiers in Biophysics 2022 is now open!
 <a  href="https://www.eventbrite.ca/e/frontiers-in-biophysics-2022-registration-288892664737">Click here to register</a>.
-Registration closes on June 1st 2022 at 11:59pm Pacific Time.
+Registration closes on June 1st 2022 at midnight.
 
 # Program
 
