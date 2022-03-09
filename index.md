@@ -75,7 +75,7 @@ For inspiration, check out our <a href="https://www.youtube.com/channel/UCwP6RGJ
       <img src="/assets/img/AbCellera_Logo.jpg" alt="AbCellera" width="210">
     </div>
     <div class="column">
-      <img src="/assets/img/BSC_Logo.png" alt="Canadian Biophysical Society" width="210">
+      <img src="/assets/img/BSC_Logo.png" alt="Canadian Biophysical Society" width="300">
     </div>
 </div>
 
