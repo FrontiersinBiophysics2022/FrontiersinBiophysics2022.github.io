@@ -14,7 +14,7 @@ layout: default
     background-image: <img src="/assets/img/backgroundshot.jpg">;
   }
   </style>
-  <img src="/assets/img/BackgroundwithLogo.png" alt="SFU">
+  <img src="/assets/img/backgroundshot.jpg" alt="SFU">
 </div>
 
 
@@ -50,7 +50,7 @@ Frontiers in Biophysics will feature a program full of exciting events, includin
 
 ## Student Presentations
 
-We are accepting abstracts for both oral presentations and posters until May 17th 2022. <a  href="https://forms.gle/2aKVytmGs3f8ZDhGA">Submit an abstract</a>.
+Abstract submissions have now closed.
 
 For inspiration, check out our <a href="https://www.youtube.com/channel/UCwP6RGJhiLxWdDefTr11RGA">Youtube channel</a> to see recordings of the virtual presentations from the 2021 conference hosted by UBC.
 
