@@ -68,7 +68,7 @@ For inspiration, check out our <a href="https://www.youtube.com/channel/UCwP6RGJ
       <img src="/assets/img/UBCMath_Logo.png" alt="UBC Math" width="210">
     </div>
 </div>
-<img src="/assets/img/SFU_VPA_Logo.png" alt="SFU Office of the Vice President Academic" width="210">
+<img src="/assets/img/SFU_VPA_Logo.png" alt="SFU Office of the Vice President Academic" width="250">
 
 ## Silver Sponsors
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
