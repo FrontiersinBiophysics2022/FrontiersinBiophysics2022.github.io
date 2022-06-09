@@ -32,7 +32,6 @@ Frontiers in Biophysics will feature a program full of exciting events, includin
 - Student oral presentations
 - Poster session
 - Keynote presentation (see below)
-- Career hour with talks from biophysicists working in industry, academia, and more
 - Lots of opportunities for networking and socializing, with lunch, coffee, and refreshments provided!
 
 
@@ -50,7 +49,7 @@ Frontiers in Biophysics will feature a program full of exciting events, includin
 
 ## Student Presentations
 
-Abstract submissions have now closed.
+Our program features many exciting student presentations. You can find the full list of talk abstracts <a href="assets/img/2022_Talk_Abstracts.pdf" title="Talk Abstracts">here</a>, and the full list of poster abstracts <a href="assets/img/2022_Poster_Abstracts.pdf" title="Poster Abstracts">here</a>.
 
 For inspiration, check out our <a href="https://www.youtube.com/channel/UCwP6RGJhiLxWdDefTr11RGA">Youtube channel</a> to see recordings of the virtual presentations from the 2021 conference hosted by UBC.
 
