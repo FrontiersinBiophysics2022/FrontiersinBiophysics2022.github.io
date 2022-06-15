@@ -28,11 +28,13 @@ Registration closes on June 1st 2022 at midnight.
 
 # Program
 
-Frontiers in Biophysics will feature a program full of exciting events, including:
+Frontiers in Biophysics features a program full of exciting events, including:
 - Student oral presentations
 - Poster session
 - Keynote presentation (see below)
 - Lots of opportunities for networking and socializing, with lunch, coffee, and refreshments provided!
+
+Download the official program <a href="assets/img/Program_FiB2022.pdf" title="Program">here</a>.
 
 
 ## Keynote Speaker
